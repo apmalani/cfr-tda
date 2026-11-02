@@ -1,0 +1,259 @@
+{
+ "format": "cfrtda.hands/v1",
+ "game": "kuhn_poker",
+ "regime": "fixed",
+ "seed": 0,
+ "stratified": true,
+ "batch_size": 30,
+ "num_iterations": null,
+ "deal_labels": [
+  "JQ",
+  "JK",
+  "QJ",
+  "QK",
+  "KJ",
+  "KQ"
+ ],
+ "hands": [
+  {
+   "id": 0,
+   "iteration": 0,
+   "slot": 0,
+   "deal": 3,
+   "deal_label": "QK",
+   "u": 0.5255170877755383
+  },
+  {
+   "id": 1,
+   "iteration": 0,
+   "slot": 1,
+   "deal": 0,
+   "deal_label": "JQ",
+   "u": 0.1254834895932199
+  },
+  {
+   "id": 2,
+   "iteration": 0,
+   "slot": 2,
+   "deal": 4,
+   "deal_label": "KJ",
+   "u": 0.7348564732435766
+  },
+  {
+   "id": 3,
+   "iteration": 0,
+   "slot": 3,
+   "deal": 5,
+   "deal_label": "KQ",
+   "u": 0.8371181189792464
+  },
+  {
+   "id": 4,
+   "iteration": 0,
+   "slot": 4,
+   "deal": 5,
+   "deal_label": "KQ",
+   "u": 0.9675023731039375
+  },
+  {
+   "id": 5,
+   "iteration": 0,
+   "slot": 5,
+   "deal": 4,
+   "deal_label": "KJ",
+   "u": 0.695384355300063
+  },
+  {
+   "id": 6,
+   "iteration": 0,
+   "slot": 6,
+   "deal": 0,
+   "deal_label": "JQ",
+   "u": 0.02123205624404848
+  },
+  {
+   "id": 7,
+   "iteration": 0,
+   "slot": 7,
+   "deal": 1,
+   "deal_label": "JK",
+   "u": 0.22208500452145374
+  },
+  {
+   "id": 8,
+   "iteration": 0,
+   "slot": 8,
+   "deal": 2,
+   "deal_label": "QJ",
+   "u": 0.34851550717764024
+  },
+  {
+   "id": 9,
+   "iteration": 0,
+   "slot": 9,
+   "deal": 3,
+   "deal_label": "QK",
+   "u": 0.6282773687384867
+  },
+  {
+   "id": 10,
+   "iteration": 0,
+   "slot": 10,
+   "deal": 5,
+   "deal_label": "KQ",
+   "u": 0.8920667438278456
+  },
+  {
+   "id": 11,
+   "iteration": 0,
+   "slot": 11,
+   "deal": 4,
+   "deal_label": "KJ",
+   "u": 0.8191723946759804
+  },
+  {
+   "id": 12,
+   "iteration": 0,
+   "slot": 12,
+   "deal": 1,
+   "deal_label": "JK",
+   "u": 0.3286141638694605
+  },
+  {
+   "id": 13,
+   "iteration": 0,
+   "slot": 13,
+   "deal": 3,
+   "deal_label": "QK",
+   "u": 0.6637360206670763
+  },
+  {
+   "id": 14,
+   "iteration": 0,
+   "slot": 14,
+   "deal": 2,
+   "deal_label": "QJ",
+   "u": 0.48149964081019003
+  },
+  {
+   "id": 15,
+   "iteration": 0,
+   "slot": 15,
+   "deal": 4,
+   "deal_label": "KJ",
+   "u": 0.7172326529719187
+  },
+  {
+   "id": 16,
+   "iteration": 0,
+   "slot": 16,
+   "deal": 1,
+   "deal_label": "JK",
+   "u": 0.2376538908031125
+  },
+  {
+   "id": 17,
+   "iteration": 0,
+   "slot": 17,
+   "deal": 3,
+   "deal_label": "QK",
+   "u": 0.5721423401620119
+  },
+  {
+   "id": 18,
+   "iteration": 0,
+   "slot": 18,
+   "deal": 0,
+   "deal_label": "JQ",
+   "u": 0.048307960627055585
+  },
+  {
+   "id": 19,
+   "iteration": 0,
+   "slot": 19,
+   "deal": 0,
+   "deal_label": "JQ",
+   "u": 0.08741809802767617
+  },
+  {
+   "id": 20,
+   "iteration": 0,
+   "slot": 20,
+   "deal": 2,
+   "deal_label": "QJ",
+   "u": 0.42648217302137587
+  },
+  {
+   "id": 21,
+   "iteration": 0,
+   "slot": 21,
+   "deal": 1,
+   "deal_label": "JK",
+   "u": 0.19869102829341057
+  },
+  {
+   "id": 22,
+   "iteration": 0,
+   "slot": 22,
+   "deal": 5,
+   "deal_label": "KQ",
+   "u": 0.9628043252522327
+  },
+  {
+   "id": 23,
+   "iteration": 0,
+   "slot": 23,
+   "deal": 3,
+   "deal_label": "QK",
+   "u": 0.5378083408384371
+  },
+  {
+   "id": 24,
+   "iteration": 0,
+   "slot": 24,
+   "deal": 5,
+   "deal_label": "KQ",
+   "u": 0.9131143090454754
+  },
+  {
+   "id": 25,
+   "iteration": 0,
+   "slot": 25,
+   "deal": 2,
+   "deal_label": "QJ",
+   "u": 0.3886825672315625
+  },
+  {
+   "id": 26,
+   "iteration": 0,
+   "slot": 26,
+   "deal": 2,
+   "deal_label": "QJ",
+   "u": 0.4376483975233185
+  },
+  {
+   "id": 27,
+   "iteration": 0,
+   "slot": 27,
+   "deal": 1,
+   "deal_label": "JK",
+   "u": 0.2710951560064134
+  },
+  {
+   "id": 28,
+   "iteration": 0,
+   "slot": 28,
+   "deal": 4,
+   "deal_label": "KJ",
+   "u": 0.780876690932044
+  },
+  {
+   "id": 29,
+   "iteration": 0,
+   "slot": 29,
+   "deal": 0,
+   "deal_label": "JQ",
+   "u": 0.1664036009790463
+  }
+ ]
+}
